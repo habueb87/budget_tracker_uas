@@ -1,10 +1,10 @@
 # budget_tracker_uas
 
-A new Flutter project.
+Project Uas " Budget Tracker App ".
 
-## Getting Started
+TI-3A / 29 / Satria Alief Pratama Sofyan / 2041720183.
 
-This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 

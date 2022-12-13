@@ -18,7 +18,6 @@ class _ExpenseFormState extends State<ExpenseForm> {
   DateTime? _date;
   String _initialValue = 'Other';
 
-  //
   _pickDate() async {
     DateTime? pickedDate = await showDatePicker(
         context: context,
@@ -33,7 +32,6 @@ class _ExpenseFormState extends State<ExpenseForm> {
     }
   }
 
-  //
   @override
   Widget build(BuildContext context) {
     final provider = Provider.of<DatabaseProvider>(context, listen: false);
